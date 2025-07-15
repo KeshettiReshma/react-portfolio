@@ -1,0 +1,15 @@
+[
+    {
+        "title": "view count visionary:a data driven approach to forecasting youtube videos",
+        "imageSrc": "projects/project.png",
+        "description": "View Count Visionary aimed to build a data-driven model to forecast Youtube video views over time",
+        "skills": ["Python", "Machine Learning","Data Analytics"],
+        "source": "https://github.com/KeshettiReshma/minor-project"
+    },
+    {
+        "title":"Dog breed identification using transfer learning",
+        "imageSrc":"projects/project.png",
+        "description": "This project focused on building a machine learning model to classify dog breeds from images using transfer learning",
+        "skills" : [ "Python", "Transfer Learning", "Deep Learning"]
+    }
+]
